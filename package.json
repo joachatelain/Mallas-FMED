@@ -4,11 +4,11 @@
   "description": "Proyecto Universitario en donde se mantiene una plataforma web que facilita información sobre las mallas en la Universidad.",
   "main": "index.html",
   "devDependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.29.3",
     "csso-cli": "^3.0.0",
     "terser": "^5.5.1"
   },
-  "scripts": {
+   "scripts": {
     "build": "./scripts/minify_code.sh",
     "devBuild": "./scripts/minify_dev.sh",
     "gbpages": "./scripts/minify_GBPages.sh",

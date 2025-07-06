@@ -1,0 +1,55 @@
+// data_MED.json
+{
+  "s0": [  // CBC
+    ["Química", "QUI-000", 0, 0, "CBC", [], "A"],
+    ["Introducción al Conocimiento de la Sociedad y el Estado", "SOC-000", 0, 0, "CBC", [], "A"],
+    ["Introducción al Pensamiento Científico", "IPC-000", 0, 0, "CBC", [], "A"],
+    ["Matemática", "MAT-000", 0, 0, "CBC", [], "A"],
+    ["Física e Introducción a la Biofísica", "FIS-000", 0, 0, "CBC", [], "A"],
+    ["Biología e Introducción a la Biología Celular", "BIO-000", 0, 0, "CBC", [], "A"]
+  ],
+  "s1": [  // Primer año (Ciclo Biomédico)
+    ["Anatomía", "ANA-100", 0, 0, "CB", [], "A"],
+    ["Histología-Biología Celular-Embriología-Genética", "HBE-100", 0, 0, "CB", [], "A"],
+    ["Salud Mental", "SM-100", 0, 0, "CB", [], "A"],
+    ["Bioética I", "BI1-100", 0, 0, "CB", [], "A"],
+    ["Medicina Familiar I", "MF1-100", 0, 0, "CB", [], "A"]
+  ],
+  "s2": [  // Segundo año
+    ["Química Biológica", "QB-200", 0, 0, "CB", [], "A"],
+    ["Anatomía", "ANA-200", 0, 0, "CB", [], "A"],
+    ["Fisiología y Biofísica", "FB-200", 0, 0, "CB", [], "A"]
+  ],
+  "s3": [  // Tercer año, 1er semestre
+    ["Microbiología-Parasitología-Inmunología", "MPI-300", 0, 0, "CB", [], "A"],
+    ["Patología I", "PAT1-300", 0, 0, "CB", [], "A"],
+    ["Farmacología I", "FAR1-300", 0, 0, "CB", [], "A"]
+  ],
+  "s4": [  // Ciclo Clínico (especialidades básicas)
+    ["Medicina (Semiología–Fisiopatología)", "MED-A", 0, 0, "CC", [], "A"],
+    ["Medicina Interna", "MED-B", 0, 0, "CC", [], "A"],
+    ["Nutrición", "NUT-400", 0, 0, "CC", [], "A"],
+    ["Diagnóstico por Imágenes", "IMG-400", 0, 0, "CC", [], "A"],
+    ["Dermatología", "DER-400", 0, 0, "CC", [], "A"],
+    ["Infectología", "INF-400", 0, 0, "CC", [], "A"],
+    ["Neumonología", "NEU-400", 0, 0, "CC", [], "A"],
+    ["Neurología", "NEURO-400", 0, 0, "CC", [], "A"],
+    ["Cirugía General", "CIR-400", 0, 0, "CC", [], "A"],
+    ["Urología", "URO-400", 0, 0, "CC", [], "A"],
+    ["Ortopedia-Traumatología", "ORT-400", 0, 0, "CC", [], "A"],
+    ["Oftalmología", "OFT-400", 0, 0, "CC", [], "A"],
+    ["Otorrinolaringología", "OTI-400", 0, 0, "CC", [], "A"],
+    ["Neurocirugía", "NCIR-400", 0, 0, "CC", [], "A"],
+    ["Obstetricia", "OBS-400", 0, 0, "CC", [], "A"],
+    ["Ginecología", "GIN-400", 0, 0, "CC", [], "A"],
+    ["Pediatría", "PED-400", 0, 0, "CC", [], "A"],
+    ["Patología II", "PAT2-400", 0, 0, "CC", [], "A"],
+    ["Farmacología II", "FAR2-400", 0, 0, "CC", [], "A"],
+    ["Salud Pública I", "SP1-400", 0, 0, "CC", [], "A"],
+    ["Salud Pública II", "SP2-400", 0, 0, "CC", [], "A"],
+    ["Psiquiatría", "PSQ-400", 0, 0, "CC", [], "A"],
+    ["Medicina Legal – Deontología Médica", "MLD-400", 0, 0, "CC", [], "A"],
+    ["Toxicología", "TOX-400", 0, 0, "CC", [], "A"],
+    ["Bioética II", "BI2-400", 0, 0, "CC", [], "A"]
+  ]
+}

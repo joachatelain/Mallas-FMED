@@ -1,0 +1,6 @@
+// colors_MED.json
+{
+  "CBC": ["#FF5722", "Ciclo Básico Común"],
+  "CB":  ["#3F51B5", "Ciclo Biomédico"],
+  "CC":  ["#4CAF50", "Ciclo Clínico"]
+}
