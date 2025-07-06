@@ -1,6 +1,7 @@
-// colors_MED.json
 {
-  "CBC": ["#FF5722", "Ciclo Básico Común"],
-  "CB":  ["#3F51B5", "Ciclo Biomédico"],
-  "CC":  ["#4CAF50", "Ciclo Clínico"]
+  "CBC": ["#FFFF54", "Ciclo Básico Común"],
+  "CBM": ["#9FCBDA", "Ciclo Biomédico"],
+  "CCL": ["#4FAD5B", "Ciclo Clínico"],
+  "ELEC": ["#AEA1C4", "Electivos"],
+  "IR": ["#F5C242", "Internado Rotatorio"]
 }
