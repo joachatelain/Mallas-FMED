@@ -1,76 +1,76 @@
 {
   "s0": [
-    ["Química", "MED-CBC01", "CBC", [], "A"],
-    ["Introducción al Conocimiento de la Sociedad y el Estado", "MED-CBC02", "CBC", [], "A"],
-    ["Introducción al Pensamiento Científico", "MED-CBC03", "CBC", [], "A"],
-    ["Matemática", "MED-CBC04", "CBC", [], "A"],
-    ["Física e Introducción a la Biofísica", "MED-CBC05", "CBC", [], "A"],
-    ["Biología e Introducción a la Biología Celular", "MED-CBC06", "CBC", [], "A"]
+    ["Química", "MED-CBC01", 3, 5, "CBC", [], "A"],
+    ["Introducción al Conocimiento de la Sociedad y el Estado", "MED-CBC02", 3, 5, "CBC", [], "A"],
+    ["Introducción al Pensamiento Científico", "MED-CBC03", 3, 5, "CBC", [], "A"],
+    ["Matemática", "MED-CBC04", 3, 5, "CBC", [], "A"],
+    ["Física e Introducción a la Biofísica", "MED-CBC05", 3, 5, "CBC", [], "A"],
+    ["Biología e Introducción a la Biología Celular", "MED-CBC06", 3, 5, "CBC", [], "A"]
   ],
   "s1": [
-    ["Anatomía", "MED-101", "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
-    ["Histología – Biología Celular – Embriología – Genética", "MED-102", "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
-    ["Salud Mental", "MED-103", "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
-    ["Bioética I", "MED-104", "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
-    ["Medicina Familiar I", "MED-105", "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"]
+    ["Anatomía", "MED-101", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Histología - Biología Celular - Embriología - Genética", "MED-102", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Salud Mental", "MED-103", 3, 5, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Bioética I", "MED-104", 2, 3, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Medicina Familiar I", "MED-105", 2, 3, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"]
   ],
   "s2": [
-    ["Química Biológica", "MED-201", "CBM", ["MED-102"], "A"],
-    ["Fisiología y Biofísica", "MED-202", "CBM", ["MED-102"], "A"]
+    ["Química Biológica", "MED-201", 5, 8, "CBM", ["MED-102"], "A"],
+    ["Fisiología y Biofísica", "MED-202", 5, 8, "CBM", ["MED-102"], "A"]
   ],
   "s3": [
-    ["Inmunología Humana", "MED-301", "CBM", ["MED-202"], "A"],
-    ["Microbiología y Parasitología I (General)", "MED-302", "CBM", ["MED-202"], "A"],
-    ["Patología I", "MED-303", "CBM", ["MED-202"], "A"],
-    ["Farmacología I", "MED-304", "CBM", ["MED-202"], "A"]
+    ["Inmunología Humana", "MED-301", 5, 8, "CBM", ["MED-202"], "A"],
+    ["Microbiología y Parasitología I (General)", "MED-302", 5, 8, "CBM", ["MED-202"], "A"],
+    ["Patología I", "MED-303", 4, 7, "CBM", ["MED-202"], "A"],
+    ["Farmacología I", "MED-304", 4, 7, "CBM", ["MED-202"], "A"]
   ],
   "s4": [
-    ["Microbiología y Parasitología II (Médica)", "MED-305", "CBM", ["MED-301","MED-302"], "A"]
+    ["Microbiología y Parasitología II (Médica)", "MED-305", 6, 10, "CBM", ["MED-301","MED-302"], "A"]
   ],
   "s5": [
-    ["Medicina 1 (Semiología – Fisiopatología)", "MED-401", "CCL", ["MED-303","MED-304"], "A"],
-    ["Salud Pública I", "MED-402", "CCL", ["MED-303","MED-304"], "A"],
-    ["Patología II", "MED-403", "CCL", ["MED-303","MED-304"], "A"]
+    ["Medicina 1 (Semiología - Fisiopatología)", "MED-401", 6, 10, "CCL", ["MED-303","MED-304"], "A"],
+    ["Salud Pública I", "MED-402", 3, 5, "CCL", ["MED-303","MED-304"], "A"],
+    ["Patología II", "MED-403", 4, 7, "CCL", ["MED-303","MED-304"], "A"]
   ],
   "s6": [
-    ["Medicina 2 (Medicina Interna)", "MED-501", "CCL", ["MED-401","MED-403"], "A"],
-    ["Farmacología II", "MED-502", "CCL", ["MED-401"], "A"],
-    ["Salud Pública II", "MED-503", "CCL", ["MED-402"], "A"],
-    ["Nutrición", "MED-504", "CCL", ["MED-401"], "A"],
-    ["Diagnóstico por Imágenes", "MED-505", "CCL", ["MED-401"], "A"],
-    ["Dermatología", "MED-506", "CCL", ["MED-401"], "A"],
-    ["Infectología", "MED-507", "CCL", ["MED-401"], "A"],
-    ["Neumonología", "MED-508", "CCL", ["MED-401"], "A"],
-    ["Neurología", "MED-509", "CCL", ["MED-401"], "A"]
+    ["Medicina 2 (Medicina Interna)", "MED-501", 6, 10, "CCL", ["MED-401","MED-403"], "A"],
+    ["Farmacología II", "MED-502", 4, 7, "CCL", ["MED-401"], "A"],
+    ["Salud Pública II", "MED-503", 3, 5, "CCL", ["MED-402"], "A"],
+    ["Nutrición", "MED-504", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Diagnóstico por Imágenes", "MED-505", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Dermatología", "MED-506", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Infectología", "MED-507", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Neumonología", "MED-508", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Neurología", "MED-509", 3, 5, "CCL", ["MED-401"], "A"]
   ],
   "s7": [
-    ["Cirugía General", "MED-601", "CCL", ["MED-401"], "A"],
-    ["Urología", "MED-602", "CCL", ["MED-401"], "A"],
-    ["Ortopedia – Traumatología", "MED-603", "CCL", ["MED-401"], "A"],
-    ["Oftalmología", "MED-604", "CCL", ["MED-401"], "A"],
-    ["Otorrinolaringología", "MED-605", "CCL", ["MED-401"], "A"],
-    ["Neurocirugía", "MED-606", "CCL", ["MED-401"], "A"],
-    ["Obstetricia", "MED-607", "CCL", ["MED-401"], "A"],
-    ["Ginecología", "MED-608", "CCL", ["MED-401"], "A"],
-    ["Pediatría", "MED-609", "CCL", ["MED-401"], "A"]
+    ["Cirugía General", "MED-601", 6, 10, "CCL", ["MED-401"], "A"],
+    ["Urología", "MED-602", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Ortopedia - Traumatología", "MED-603", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Oftalmología", "MED-604", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Otorrinolaringología", "MED-605", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Neurocirugía", "MED-606", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Obstetricia", "MED-607", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Ginecología", "MED-608", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Pediatría", "MED-609", 6, 10, "CCL", ["MED-401"], "A"]
   ],
   "s8": [
-    ["Psiquiatría", "MED-701", "CCL", ["MED-401"], "A"],
-    ["Toxicología", "MED-702", "CCL", ["MED-401"], "A"],
-    ["Bioética II", "MED-703", "CCL", ["MED-104"], "A"],
-    ["Medicina Legal – Deontología Médica", "MED-704", "CCL", ["MED-703"], "A"]
+    ["Psiquiatría", "MED-701", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Toxicología", "MED-702", 3, 5, "CCL", ["MED-401"], "A"],
+    ["Bioética II", "MED-703", 2, 3, "CCL", ["MED-104"], "A"],
+    ["Medicina Legal - Deontología Médica", "MED-704", 3, 5, "CCL", ["MED-703"], "A"]
   ],
   "s9": [
-    ["Internado Rotatorio – Medicina", "MED-801", "IR", [], "A"],
-    ["Internado Rotatorio – Cirugía", "MED-802", "IR", [], "A"],
-    ["Internado Rotatorio – Tocoginecología", "MED-803", "IR", [], "A"],
-    ["Internado Rotatorio – Pediatría", "MED-804", "IR", [], "A"],
-    ["Internado Rotatorio – Salud Mental", "MED-805", "IR", [], "A"],
-    ["Internado Rotatorio – Atención Primaria", "MED-806", "IR", [], "A"]
+    ["Internado Rotatorio - Medicina", "MED-801", 8, 12, "IR", [], "A"],
+    ["Internado Rotatorio - Cirugía", "MED-802", 8, 12, "IR", [], "A"],
+    ["Internado Rotatorio - Tocoginecología", "MED-803", 8, 12, "IR", [], "A"],
+    ["Internado Rotatorio - Pediatría", "MED-804", 8, 12, "IR", [], "A"],
+    ["Internado Rotatorio - Salud Mental", "MED-805", 4, 6, "IR", [], "A"],
+    ["Internado Rotatorio - Atención Primaria", "MED-806", 4, 6, "IR", [], "A"]
   ],
   "s10": [
-    ["Electivo – Bioinformática", "ELEC-01", "ELEC", [], "A"],
-    ["Electivo – Inglés", "ELEC-02", "ELEC", [], "A"],
-    ["Electivo – Metodología de la Investigación", "ELEC-03", "ELEC", [], "A"]
+    ["Electivo - Bioinformática", "ELEC-01", 3, 5, "ELEC", [], "A"],
+    ["Electivo - Inglés", "ELEC-02", 3, 5, "ELEC", [], "A"],
+    ["Electivo - Metodología de la Investigación", "ELEC-03", 3, 5, "ELEC", [], "A"]
   ]
 }
