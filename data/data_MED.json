@@ -9,7 +9,9 @@
   ],
   "s1": [
     ["Anatomía", "MED-101", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
-    ["Histología - Biología Celular - Embriología - Genética", "MED-102", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Histología", "MED-102", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Biología Celular - Genética", "MED-102", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
+    ["Embriología", "MED-102", 6, 10, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
     ["Salud Mental", "MED-103", 3, 5, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
     ["Bioética I", "MED-104", 2, 3, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"],
     ["Medicina Familiar I", "MED-105", 2, 3, "CBM", ["MED-CBC01","MED-CBC02","MED-CBC03","MED-CBC04","MED-CBC05","MED-CBC06"], "A"]
