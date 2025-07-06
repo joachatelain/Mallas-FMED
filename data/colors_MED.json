@@ -1,7 +1,7 @@
 {
-  "CBC": ["#012A36", "Ciclo Básico Común"],
+  "CBC": ["#E6BCCD", "Ciclo Básico Común"],
   "CBM": ["#29274C", "Ciclo Biomédico"],
   "CCL": ["#7E52A0", "Ciclo Clínico"],
   "ELEC": ["#D295BF", "Electivos"],
-  "IR": ["#E6BCCD", "Internado Rotatorio"]
+  "IR": ["#012A36", "Internado Rotatorio"]
 }
