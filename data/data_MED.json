@@ -1,8 +1,8 @@
 {
   "CBC": [
     ["Química", "MED-CBC01", 3, 5, "CBC", [], "A"],
-    ["Introducción al Conocimiento de la Sociedad y el Estado", "MED-CBC02", 3, 5, "CBC", [], "A"],
-    ["Introducción al Pensamiento Científico", "MED-CBC03", 3, 5, "CBC", [], "A"],
+    ["ICSE", "MED-CBC02", 3, 5, "CBC", [], "A"],
+    ["IPC", "MED-CBC03", 3, 5, "CBC", [], "A"],
     ["Matemática", "MED-CBC04", 3, 5, "CBC", [], "A"],
     ["Física e Introducción a la Biofísica", "MED-CBC05", 3, 5, "CBC", [], "A"],
     ["Biología e Introducción a la Biología Celular", "MED-CBC06", 3, 5, "CBC", [], "A"]
